@@ -6,4 +6,5 @@ class Artist < ActiveRecord::Base
     @genre = genre
     @age = age
     @hometown = hometown
+  end
 end
